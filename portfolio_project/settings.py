@@ -49,12 +49,11 @@ TEMPLATES = [
 WSGI_APPLICATION = "portfolio_project.wsgi.application"
 ASGI_APPLICATION = "portfolio_project.asgi.application"
 
-# Static files (CSS, JavaScript, Images)
 STATIC_URL = "/static/"
 
 DATABASES = {
     "default": {
-        "ENGINE": "django.db.backends.sqlite3",  # 使用 SQLite 数据库引擎
+        "ENGINE": "django.db.backends.sqlite3",  #  SQLite 数据库引擎
         "NAME": BASE_DIR / "db.sqlite3",  # 数据库文件的路径
     }
 }
