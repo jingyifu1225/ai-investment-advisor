@@ -1,0 +1,124 @@
+# Byte-compiled Python files
+*.py[cod]
+*.pyo
+__pycache__/
+*.so
+
+# Django-specific files
+db.sqlite3
+*.sqlite3
+media/
+staticfiles/
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables and secrets
+.env
+*.env
+
+# PyCharm-specific files
+.idea/
+.vscode/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+*.virtualenv
+.Python
+
+# Pipfile and Pipenv
+Pipfile
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+.nox/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Test and Debug
+*.pytest_cache/
+.pytest_cache/
+debug.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*.orig
+*~
+
+# IDE-specific files
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Build-related files
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+*.manifest
+.installed.cfg
+
+# Migrations
+migrations/
+*/migrations/*
+!*/migrations/__init__.py
+
+# Node.js-related files (if using React or other frontend in the same repo)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Docker-specific files
+*.log
+docker-compose.override.yml
+*.dockerignore
+.env.docker
+
+# AWS and deployment-related files
+*.pem
+.terraform/
+
+# EditorConfig
+*.editorconfig
+
+# Other sensitive or unnecessary files
+*.crt
+*.key
+secrets.json

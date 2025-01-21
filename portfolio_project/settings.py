@@ -4,6 +4,14 @@ from tutorial.settings import BASE_DIR
 
 DEBUG = True
 
+SECRET_KEY = 'virginia1225'
+
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': (
+        'rest_framework_simplejwt.authentication.JWTAuthentication',
+    ),
+}
+
 INSTALLED_APPS = [
     "django.contrib.admin",
     "django.contrib.auth",
