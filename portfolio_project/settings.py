@@ -61,7 +61,7 @@ STATIC_URL = "/static/"
 
 DATABASES = {
     "default": {
-        "ENGINE": "django.db.backends.sqlite3",  #  SQLite 数据库引擎
-        "NAME": BASE_DIR / "db.sqlite3",  # 数据库文件的路径
+        "ENGINE": "django.db.backends.sqlite3",
+        "NAME": BASE_DIR / "db.sqlite3",
     }
 }
