@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ea7bfe6-ddcd-4bf0-9b70-dcf7a5463707" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system/_paxos_repair_state/ballot.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system/local-7ad54392bcdd35a684174e047860b377/nb-8-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system/local-7ad54392bcdd35a684174e047860b377/nb-8-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system/local-7ad54392bcdd35a684174e047860b377/nb-8-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system/local-7ad54392bcdd35a684174e047860b377/nb-8-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system/local-7ad54392bcdd35a684174e047860b377/nb-8-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system/local-7ad54392bcdd35a684174e047860b377/nb-8-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system/local-7ad54392bcdd35a684174e047860b377/nb-8-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system/local-7ad54392bcdd35a684174e047860b377/nb-8-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/aggregates-924c55872e3a345bb10c12f37c1ba895/nb-1-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/aggregates-924c55872e3a345bb10c12f37c1ba895/nb-1-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/aggregates-924c55872e3a345bb10c12f37c1ba895/nb-1-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/aggregates-924c55872e3a345bb10c12f37c1ba895/nb-1-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/aggregates-924c55872e3a345bb10c12f37c1ba895/nb-1-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/aggregates-924c55872e3a345bb10c12f37c1ba895/nb-1-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/aggregates-924c55872e3a345bb10c12f37c1ba895/nb-1-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/aggregates-924c55872e3a345bb10c12f37c1ba895/nb-1-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/column_masks-738cc5ed01683268b9d1853d4bc278af/nb-1-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/column_masks-738cc5ed01683268b9d1853d4bc278af/nb-1-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/column_masks-738cc5ed01683268b9d1853d4bc278af/nb-1-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/column_masks-738cc5ed01683268b9d1853d4bc278af/nb-1-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/column_masks-738cc5ed01683268b9d1853d4bc278af/nb-1-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/column_masks-738cc5ed01683268b9d1853d4bc278af/nb-1-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/column_masks-738cc5ed01683268b9d1853d4bc278af/nb-1-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/column_masks-738cc5ed01683268b9d1853d4bc278af/nb-1-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-1-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-1-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-1-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-1-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-1-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-1-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-1-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-1-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-2-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-2-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-2-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-2-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-2-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-2-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-2-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-2-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-3-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-3-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-3-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-3-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-3-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-3-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-3-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/columns-24101c25a2ae3af787c1b40ee1aca33f/nb-3-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/dropped_columns-5e7583b5f3f43af19a39b7e1d6f5f11f/nb-1-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/dropped_columns-5e7583b5f3f43af19a39b7e1d6f5f11f/nb-1-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/dropped_columns-5e7583b5f3f43af19a39b7e1d6f5f11f/nb-1-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/dropped_columns-5e7583b5f3f43af19a39b7e1d6f5f11f/nb-1-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/dropped_columns-5e7583b5f3f43af19a39b7e1d6f5f11f/nb-1-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/dropped_columns-5e7583b5f3f43af19a39b7e1d6f5f11f/nb-1-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/dropped_columns-5e7583b5f3f43af19a39b7e1d6f5f11f/nb-1-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/dropped_columns-5e7583b5f3f43af19a39b7e1d6f5f11f/nb-1-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/functions-96489b7980be3e14a70166a0b9159450/nb-1-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/functions-96489b7980be3e14a70166a0b9159450/nb-1-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/functions-96489b7980be3e14a70166a0b9159450/nb-1-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/functions-96489b7980be3e14a70166a0b9159450/nb-1-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/functions-96489b7980be3e14a70166a0b9159450/nb-1-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/functions-96489b7980be3e14a70166a0b9159450/nb-1-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/functions-96489b7980be3e14a70166a0b9159450/nb-1-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/functions-96489b7980be3e14a70166a0b9159450/nb-1-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/indexes-0feb57ac311f382fba6d9024d305702f/nb-1-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/indexes-0feb57ac311f382fba6d9024d305702f/nb-1-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/indexes-0feb57ac311f382fba6d9024d305702f/nb-1-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/indexes-0feb57ac311f382fba6d9024d305702f/nb-1-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/indexes-0feb57ac311f382fba6d9024d305702f/nb-1-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/indexes-0feb57ac311f382fba6d9024d305702f/nb-1-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/indexes-0feb57ac311f382fba6d9024d305702f/nb-1-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/indexes-0feb57ac311f382fba6d9024d305702f/nb-1-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-1-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-1-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-1-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-1-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-1-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-1-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-1-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-1-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-2-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-2-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-2-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-2-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-2-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-2-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-2-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-2-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-3-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-3-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-3-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-3-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-3-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-3-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-3-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/keyspaces-abac5682dea631c5b535b3d6cffd0fb6/nb-3-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-1-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-1-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-1-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-1-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-1-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-1-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-1-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-1-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-2-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-2-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-2-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-2-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-2-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-2-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-2-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-2-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-3-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-3-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-3-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-3-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-3-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-3-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-3-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/tables-afddfb9dbc1e30688056eed6c302ba09/nb-3-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/triggers-4df70b666b05325195a132b54005fd48/nb-1-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/triggers-4df70b666b05325195a132b54005fd48/nb-1-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/triggers-4df70b666b05325195a132b54005fd48/nb-1-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/triggers-4df70b666b05325195a132b54005fd48/nb-1-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/triggers-4df70b666b05325195a132b54005fd48/nb-1-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/triggers-4df70b666b05325195a132b54005fd48/nb-1-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/triggers-4df70b666b05325195a132b54005fd48/nb-1-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/triggers-4df70b666b05325195a132b54005fd48/nb-1-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/types-5a8b1ca866023f77a0459273d308917a/nb-1-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/types-5a8b1ca866023f77a0459273d308917a/nb-1-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/types-5a8b1ca866023f77a0459273d308917a/nb-1-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/types-5a8b1ca866023f77a0459273d308917a/nb-1-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/types-5a8b1ca866023f77a0459273d308917a/nb-1-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/types-5a8b1ca866023f77a0459273d308917a/nb-1-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/types-5a8b1ca866023f77a0459273d308917a/nb-1-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/types-5a8b1ca866023f77a0459273d308917a/nb-1-big-TOC.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/nb-1-big-CompressionInfo.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/nb-1-big-Data.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/nb-1-big-Digest.crc32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/nb-1-big-Filter.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/nb-1-big-Index.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/nb-1-big-Statistics.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/nb-1-big-Summary.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/cassandra_data/data/system_schema/views-9786ac1cdd583201a7cdad556410c985/nb-1-big-TOC.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_api/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_api/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_api/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_api/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio_project/settings.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IlluminatedCloudWorkspaceSettings">
+    <option name="projectWorkspaceSettings">
+      <ProjectWorkspaceSettings>
+        <option name="anonymousApexSettings">
+          <AnonymousApexSettings>
+            <option name="savedDocuments">
+              <list>
+                <AnonymousApexSavedDocument>
+                  <option name="name" value="Anonymous Apex 1" />
+                </AnonymousApexSavedDocument>
+              </list>
+            </option>
+          </AnonymousApexSettings>
+        </option>
+      </ProjectWorkspaceSettings>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2rCFk0b1HFEHgGuDzQspTG98aVc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/qiqi/Desktop/ai-investment-advisor",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.tools",
+    "timeTracker.activityTracker": "null",
+    "timeTracker.comment": "",
+    "timeTracker.inactivityPeriodInMills": "600000",
+    "timeTracker.isAutoTrackingEnable": "false",
+    "timeTracker.isAutoTrackingTemporaryDisabled": "false",
+    "timeTracker.isManualTrackingEnable": "false",
+    "timeTracker.isPaused": "true",
+    "timeTracker.isPostAfterCommitEnabled": "true",
+    "timeTracker.isPostedScheduled": "true",
+    "timeTracker.isRunning": "false",
+    "timeTracker.isScheduledEnabled": "true",
+    "timeTracker.isWhenProjectClosedEnabled": "false",
+    "timeTracker.issueId": "Default",
+    "timeTracker.issueIdReadable": "Default",
+    "timeTracker.pausedTime": "0",
+    "timeTracker.query": "",
+    "timeTracker.recordedTime": "0",
+    "timeTracker.scheduledPeriod": "19:00:0",
+    "timeTracker.startTime": "0",
+    "timeTracker.timeInMills": "0",
+    "timeTracker.type": "None",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ai-investment-advisor" type="Python.DjangoServer" factoryName="Django server">
+      <module name="ai-investment-advisor" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ea7bfe6-ddcd-4bf0-9b70-dcf7a5463707" name="Changes" comment="" />
+      <created>1736055290499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736055290499</updated>
+      <workItem from="1736055291931" duration="3262000" />
+      <workItem from="1736060554398" duration="388000" />
+      <workItem from="1736060953180" duration="521000" />
+      <workItem from="1736061485515" duration="1329000" />
+      <workItem from="1737458825859" duration="5386000" />
+      <workItem from="1737468675700" duration="512000" />
+      <workItem from="1737469194122" duration="9947000" />
+      <workItem from="1737999313857" duration="11876000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

@@ -1,19 +1,14 @@
-# portfolio_api/views.py
-from rest_framework import viewsets
+from rest_framework.views import APIView
+from rest_framework.response import Response
 from rest_framework.permissions import IsAuthenticated
 from .models import Portfolio
 from .serializers import PortfolioSerializer
-from rest_framework.authentication import SessionAuthentication
 
 
-class PortfolioViewSet(viewsets.ModelViewSet):
-    queryset = Portfolio.objects.all()
-    serializer_class = PortfolioSerializer
-    authentication_classes = [SessionAuthentication]
-    permission_classes = [IsAuthenticated]
+class PortfolioListView(APIView):
+    permission_classes = [IsAuthenticated]  # jwt token auth
 
-    def get_queryset(self):
-        return Portfolio.objects.filter(user=self.request.user)
-
-    def perform_create(self, serializer):
-        serializer.save(user=self.request.user)
+    def get(self, request):
+        portfolios = Portfolio.objects.filter(user=request.user)
+        serializer = PortfolioSerializer(portfolios, many=True)
+        return Response(serializer.data)

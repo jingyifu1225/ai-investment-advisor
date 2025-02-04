@@ -1,14 +1,9 @@
 from django.urls import path
-from rest_framework.routers import DefaultRouter
 from rest_framework_simplejwt.views import TokenObtainPairView, TokenRefreshView
-from .views import PortfolioViewSet
-
-router = DefaultRouter()
-router.register(r"portfolios", PortfolioViewSet, basename="portfolio")
-
+from portfolio_api.views import PortfolioListView
 
 urlpatterns = [
-    #path('admin/', admin.site.urls),
-    path('api/token/', TokenObtainPairView.as_view(), name='token_obtain_pair'),
-    path('api/token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),
+    path('token/', TokenObtainPairView.as_view(), name='token_obtain_pair'),
+    path('token/refresh/', TokenRefreshView.as_view(), name='token_refresh'),
+    path('portfolios/', PortfolioListView.as_view(), name='portfolio-list'),
 ]
