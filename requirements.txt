@@ -4,3 +4,8 @@ black==24.10.0
 flake8==7.1.1
 channels~=4.2.0
 djangorestframework-simplejwt==5.4.0
+pymongo==4.11.2
+llama-index==0.12.22
+openai==1.61.1
+llama-index-vector-stores-mongodb==0.6.0
+llama-index-llms-openai==0.3.18

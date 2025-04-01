@@ -105,6 +105,7 @@ yarn-error.log*
 package-lock.json
 
 # Docker-specific files
+*.log
 docker-compose.override.yml
 *.dockerignore
 .env.docker
@@ -123,3 +124,4 @@ secrets.json
 !/.idea/
 !/.idea/ai-investment-advisor.iml
 !/venv/
+.env
